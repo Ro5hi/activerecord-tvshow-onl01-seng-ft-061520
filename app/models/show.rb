@@ -25,7 +25,8 @@ class Show < ActiveRecord::Base
     
   end 
   
-  def self.popular_show 
+  def self.popular_shows
+    
   
   
 end 
