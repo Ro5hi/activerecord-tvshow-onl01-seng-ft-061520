@@ -1,0 +1,1 @@
+class Season < ActiveRecord::Migrate[5.2]
