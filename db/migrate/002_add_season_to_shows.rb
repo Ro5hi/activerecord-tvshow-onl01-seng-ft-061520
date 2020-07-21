@@ -1,4 +1,4 @@
-class Season < ActiveRecord::Migration[5.2]
+class AddSeasontoShows < ActiveRecord::Migration[5.2]
   
   def change 
     
