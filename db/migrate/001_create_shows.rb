@@ -6,7 +6,7 @@ class Shows < ActiveRecord::Migration[5.2]
       
       t.string :name 
       t.string :network 
-      t.datetime :day 
+      t.string :day 
       t.integer :rating 
     
     end
