@@ -1,4 +1,4 @@
-class Shows < ActiveRecord::Migrate 
+class Shows < ActiveRecord::Migrate[5.2]
   
   def change 
     
